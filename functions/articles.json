@@ -2,7 +2,7 @@
     "bookmarks": [{
             "image": "https://cdn-images-1.medium.com/max/500/1*vHF6NNdZX9ziiW_uRYzvAA.png",
             "postId": "7029d2193351",
-            "readingTime": 5,
+            "readingTime": "5 min",
             "subtitle": "Learn how HTTPS works by reading about Alice, Bob and a lot of carrier pigeons",
             "tags": [
                 "Cryptography",
@@ -16,7 +16,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*8uWYVGW6shCGQxDiyB7QKA.png",
             "postId": "20b83b175f8e",
-            "readingTime": 4,
+            "readingTime": "4 min",
             "subtitle": "In today’s scenario where everything already exists. I came across a situation to develop a Ticket View as per UI designs. My first thought…",
             "tags": [
                 "Design",
@@ -30,7 +30,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*zo897tPhFwXUt9l59vGIZw.jpeg",
             "postId": "e883ad2c9d5b",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "If we want to create better apps, I believe that we need to follow material design guideline.In general terms, Material design is a…",
             "tags": [
                 "Android",
@@ -44,7 +44,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*Yb_zriEWXeN-AwLmu5WyOQ.jpeg",
             "postId": "ffbd547ff5b8",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "Tasks, Back Stack, Affinity, Intent Flags, and everything else",
             "tags": [
                 "Android App Development",
@@ -57,7 +57,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/0*-WxxLsxa6JCi8Aq_.png",
             "postId": "81a9d740d091",
-            "readingTime": 15,
+            "readingTime": "15 min",
             "subtitle": "What is Docker?",
             "tags": [
                 "Docker",
@@ -71,7 +71,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*7hyRM50LJZP5sgEg3a76Xw.png",
             "postId": "a3cac745e56e",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "Everything from generating tokens to receiving and displaying notifications",
             "tags": [
                 "Android",
@@ -84,7 +84,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*Srie0FxIgNM6cNhgq5QyrQ.png",
             "postId": "a56c5decbe1f",
-            "readingTime": 7,
+            "readingTime": "7 min",
             "subtitle": "Delight is in the details",
             "tags": [
                 "UX",
@@ -98,7 +98,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*mAbf3jthX7nG_RTUPbHxFw.jpeg",
             "postId": "a03445edaf0b",
-            "readingTime": 5,
+            "readingTime":"5 min",
             "subtitle": "It’s just a little setback…",
             "tags": [
                 "Entrepreneurship",
@@ -112,7 +112,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*P-yfCW-VxjPXQnMChNU3JA.png",
             "postId": "74feb524959b",
-            "readingTime": 7,
+            "readingTime": "7 min",
             "subtitle": "With every release of Android, there comes a myriad of new features and Android Nougat 7.1 is no different. One of these new features is…",
             "tags": [
                 "Android App Development",
@@ -124,7 +124,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*5OJxZKSyf5z4520maLzA3g.jpeg",
             "postId": "6203f84f9886",
-            "readingTime": 5,
+            "readingTime": "5 min",
             "subtitle": "Android N introduced many new powerful features out of which I would like to talk about a simple, yet very useful one: “App Shortcuts”…",
             "tags": [
                 "Android",
@@ -138,7 +138,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*VD9ngpYE8UfNDtskAzbpyQ.png",
             "postId": "8425e60c6657",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "Annotation processing is released in java 1.5. Actually it is an old API but one of the most powerful. We will talk about what is…",
             "tags": [
                 "Android App Development",
@@ -152,7 +152,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*o2fT1qDAtgRiaQKH2_VQlw.jpeg",
             "postId": "687222e9d100",
-            "readingTime": 11,
+            "readingTime": "11 min",
             "subtitle": "Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis",
             "tags": [
                 "AWS",
@@ -166,7 +166,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/0*e4SjBEKGrQPHV_6b.",
             "postId": "b1071265c571",
-            "readingTime": 4,
+            "readingTime": "4 min",
             "subtitle": "BONJOUR CODERS,",
             "tags": [
                 "Nodejs",
@@ -178,7 +178,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*f4SlcrfrhxyM0qCNrsAN4A.jpeg",
             "postId": "7129220b15a7",
-            "readingTime": 3,
+            "readingTime": "3 min",
             "subtitle": "So “diving into Kotlin world” has finally been checked off from my ToDo list. And I must admit, great job done JetBrains (not Google!) 😈",
             "tags": [
                 "Kotlin",
@@ -192,7 +192,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/0*kKGQn6RZmO--M8ix.jpg",
             "postId": "617b55cf787",
-            "readingTime": 20,
+            "readingTime": "20 min",
             "subtitle": "Are you one of those people who stays away from regular expressions because it looks like a foreign language? I was one. Not anymore.",
             "tags": [
                 "Programming",
@@ -206,7 +206,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*w9dLy2njrrkNUQVugpF-6g.jpeg",
             "postId": "19134461ab85",
-            "readingTime": 20,
+            "readingTime": "20 min",
             "subtitle": "",
             "tags": [
                 "Vim",
@@ -220,7 +220,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*8NEXTT3SN0DQ9Di99WK_CA.png",
             "postId": "46fbb8afacaf",
-            "readingTime": 7,
+            "readingTime": "7 min",
             "subtitle": "I’m a self-taught programmer. This means I’m constantly dealing with impostor syndrome. It’s not uncommon for me to feel like I’m…",
             "tags": [
                 "Life Lessons",
@@ -234,7 +234,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*_vKRQ66IBIliuqjqkQBLUQ.png",
             "postId": "280635e98e37",
-            "readingTime": 15,
+            "readingTime": "15 min",
             "subtitle": "How to explain coding concepts like streams, promises, linting, and declarative programming to a 5-year-old",
             "tags": [
                 "Life Lessons",
@@ -248,7 +248,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*g9_Ci_OEa0cyBMWPhMt2sA.jpeg",
             "postId": "bb0aa2449c1a",
-            "readingTime": 7,
+            "readingTime": "7 min",
             "subtitle": "If you are in any type of a technical profession, I am sure someone at some point has asked you this question. Whether you are an engineer…",
             "tags": [
                 "DNS",
@@ -262,7 +262,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*9rLeOFD7rvImTlcXQUe-mw.png",
             "postId": "be9261b924b0",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "Medium has a large amount of content, a large number of users, and an almost overwhelming number of posts. When you try to find interesting…",
             "tags": [
                 "Python",
@@ -276,7 +276,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*WfNBTsNo_9ipck02sUoU_w.gif",
             "postId": "2a6c141547d9",
-            "readingTime": 7,
+            "readingTime": "7 min",
             "subtitle": "Tips about animated state, scale and vector drawables",
             "tags": [
                 "Android",
@@ -288,7 +288,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*9hIUb4TpxYkHehxMb7KpEw.jpeg",
             "postId": "d3702bd9bdc6",
-            "readingTime": 10,
+            "readingTime": "10 min",
             "subtitle": "The summer is over and this is a great time to present my subjective list of 30 Android libraries and projects released in the last 3…",
             "tags": [
                 "Android",
@@ -302,7 +302,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*GAr16V5px5cJAsoY4uMLFg.png",
             "postId": "744b0c6a41ea",
-            "readingTime": 8,
+            "readingTime": "8 min",
             "subtitle": "One of the biggest strengths of RxJava is its ability to easily schedule work and process results on various threads. This article aims to…",
             "tags": [
                 "Multithreading",
@@ -316,7 +316,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*uTy_xV5dllKACKEtQufOLQ.png",
             "postId": "975e4f855e58",
-            "readingTime": 10,
+            "readingTime": "10 min",
             "subtitle": "Google Actions is a fascinating platform. Not only does it provide us with a conversational tool that gives us the ability to create…",
             "tags": [
                 "Bots",
@@ -330,7 +330,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*nFrPrC0lSXkFiV3CMQ56aQ.png",
             "postId": "944548174582",
-            "readingTime": 4,
+            "readingTime": "4 min",
             "subtitle": "No matter how many shortcuts I use, I always get a feeling that I am not fast enough. Like all other developers, I am trying to use mouse…",
             "tags": [
                 "Productivity",
@@ -344,7 +344,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*8-BCfbx0DOTS8Bn9wXJW4w.png",
             "postId": "ee2f3ea4d3f3",
-            "readingTime": 12,
+            "readingTime": "12 min",
             "subtitle": "Businesses often need to build applications that not only collect and save data, but also analyze it and render it searchable. Powerful…",
             "tags": [
                 "Elasticsearch",
@@ -358,7 +358,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*P8lShi9yTX2_s3DX282iew.png",
             "postId": "330913e32514",
-            "readingTime": 3,
+            "readingTime": "3 min",
             "subtitle": "What is Context?",
             "tags": [
                 "Android",
@@ -372,7 +372,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/0*-m9PuNCzweMOUaJb.png",
             "postId": "e586b6d8b99c",
-            "readingTime": 9,
+            "readingTime": "9 min",
             "subtitle": "Last month me and the ninja god Pedro launched GitShowcase, a plug-and-play portfolio for developers. Open source and free.",
             "tags": [
                 "Open Source",
@@ -386,7 +386,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*lVw0BBPbpWJy2hbAXjPmWw.png",
             "postId": "4aec5c8da99e",
-            "readingTime": 8,
+            "readingTime": "8 min",
             "subtitle": "With Reactive Programming being a part and parcel of apps development these days, RxJS Observables finds a great a place in our apps. But…",
             "tags": [
                 "JavaScript",
@@ -400,7 +400,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*7Ur8GqhvuHU7uKFlDJsx1g.png",
             "postId": "b5f8908b9921",
-            "readingTime": 10,
+            "readingTime": "10 min",
             "subtitle": "Let’s look at how to create an app with a collapsing Toolbar Material Design animation with the Design Support Library.",
             "tags": [
                 "Android",
@@ -414,7 +414,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*ivKGYl3L-4anqSBTfzg44A.png",
             "postId": "a63e23bf4943",
-            "readingTime": 4,
+            "readingTime": "4 min",
             "subtitle": "Android 7.0 (Nougat) brought plenty of new features to both average users and developers. Alongside features like Multi-window view…",
             "tags": [
                 "Android",
@@ -428,7 +428,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*Mie32xyKng86Ioe4Rsbusw.png",
             "postId": "64194d9a48",
-            "readingTime": 15,
+            "readingTime": "15 min",
             "subtitle": "The web platform has been expanding just like the Universe as per the Big Bang Theory. Every day or the other we hear about a new library…",
             "tags": [
                 "JavaScript",
@@ -442,7 +442,7 @@
         {
             "image": "https://cdn-images-1.medium.com/max/500/1*4J6DLquwImcannV9ERRrbg.png",
             "postId": "81db49a0dd8e",
-            "readingTime": 6,
+            "readingTime": "6 min",
             "subtitle": "The Store component",
             "tags": [
                 "Android",

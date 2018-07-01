@@ -4,3 +4,4 @@ npm-debug.log
 .firebaserc
 package-lock.json
 .vscode/
+*.log

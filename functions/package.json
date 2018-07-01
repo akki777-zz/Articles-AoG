@@ -6,7 +6,7 @@
     "node": ">=8.9.1"
   },
   "scripts": {
-    "serve": "firebase serve --only functions",
+    "serve": "firebase serve --only functions --port=8000",
     "shell": "firebase functions:shell",
     "start": "npm run shell",
     "deploy": "firebase deploy --only functions",
@@ -16,7 +16,9 @@
   },
   "dependencies": {
     "firebase-admin": "~5.12.1",
-    "firebase-functions": "^1.0.3"
+    "firebase-functions": "^1.0.3",
+    "express": "^4.16.3",
+    "actions-on-google": "^2.2.0"
   },
   "private": true,
   "devDependencies": {
